@@ -100,6 +100,7 @@ You can choose an auto generated ID.
 Add fields. 
 
 It should look like then when you say DONE. 
+![data](https://user-images.githubusercontent.com/83961643/148938421-e5ccb8d7-3a6c-439f-945b-a142d973ddf8.jpeg)
 
 
 
