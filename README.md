@@ -92,5 +92,6 @@ Change the if false statement to say true instead. Publish those changes.
 Go to the Data tab and add your data name. No SQL database so you have collections which would be similar to tables. 
 ![collection](https://user-images.githubusercontent.com/83961643/148936856-fa8fdc20-bada-4838-9455-30aba3d6f733.jpeg)
 :arrow_right:then say next 
+
 A collection will include multiple documents. 
 
