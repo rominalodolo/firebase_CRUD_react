@@ -77,7 +77,8 @@ Then you should be asked a question
     `create-react-app`
 Ok to proceed? (y)```
 
-or you can use `npm install -g create-react-app` or 
+or you can use `npm install -g create-react-app` then `create-react-app .` 
+dot "." means your working folder 
 
 ### To install firebase 
 In your working folder in Visual Studio Code run `npm install firebase` 
