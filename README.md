@@ -81,3 +81,6 @@ dot "." means your working folder
 
 ### To install firebase 
 In your working folder in Visual Studio Code run `npm install firebase` 
+
+### Linking firebase to your react project
+Once you have created a new project in Firebase, click on the settings in Project Overview to Project Settings. Click on the </> button and register your app. Give it a name, then click register. You will need to add a new file in your vs code called firebase-config.js and everything related to the connection will be put in this file. 
