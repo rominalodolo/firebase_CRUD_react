@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Trouble with installation 
+## Trouble with installation 
 if there is version earlier than 5.0.0 then uninstall by running the command `npm uninstall -g create-react-app` or `yarn global remove create-react-app` in the terminal in your working folder. 
 Then install by running `npx create-react-app .`
 Then you should be asked a question 
