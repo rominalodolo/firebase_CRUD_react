@@ -6,8 +6,10 @@ function App() {
 
   useEffect(() => {
 
-    
 
+    const getUsers = async () => {
+      
+    }
   }, [])
 
   return (
