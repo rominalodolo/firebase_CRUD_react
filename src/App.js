@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"; 
 import './App.css';
 import { db } from ".firebase-config";
-import { collection } from "firebase/firestore"; 
+import { collection, getDocs } from "firebase/firestore"; 
 
 function App() {
   const [user, setUsers] = useState([]);
@@ -9,9 +9,11 @@ function App() {
   
   useEffect(() => {
     const getUsers = async () => {
-      const data = await
+      const data = await getDocs(usersCollectionRef);
 
-    }
+    };
+
+    getUsers();
   }, [])
 
   return (
