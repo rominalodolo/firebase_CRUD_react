@@ -95,3 +95,9 @@ Go to the Data tab and add your data name. No SQL database so you have collectio
 
 A collection will include multiple documents. 
 
+You can choose an auto generated ID. 
+
+Add fields. 
+
+
+
