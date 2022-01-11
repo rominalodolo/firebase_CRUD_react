@@ -99,5 +99,7 @@ You can choose an auto generated ID.
 
 Add fields. 
 
+It should look like then when you say DONE. 
+
 
 
