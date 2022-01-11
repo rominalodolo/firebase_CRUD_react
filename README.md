@@ -84,3 +84,11 @@ In your working folder in Visual Studio Code run `npm install firebase`
 
 ### Linking firebase to your react project
 Once you have created a new project in Firebase, click on the settings in Project Overview to Project Settings. Click on the </> button and register your app. Give it a name, then click register. You will need to add a new file in your vs code src folder called firebase-config.js and everything related to the connection will be put in this file. The first thing you put will be the `const firebaseConfig` code. 
+
+### The database 
+Click on the `Firestore Database` and create a database. 
+then click `Rules` to change permissions. 
+Change the if false statement to say true instead. Publish those changes. 
+Go to the Data tab and add your data name. No SQL database so you have collections which would be similar to tables. 
+
+A collection will include multiple documents. 
