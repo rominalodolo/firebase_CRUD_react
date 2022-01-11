@@ -1,7 +1,8 @@
 import { initializeApp } from "firebase/app";
-import { getFirestore } from '@firebase/firestore' 
+import { getFirestore } from "@firebase/firestore";
 // import { getAnalytics } from "firebase/analytics";
 
+// rather create an .env file and populate the strings in that file for safety
 const firebaseConfig = {
     apiKey: "AIzaSyCcG7BGPdKTRxcdK7TMpL0wkHviGU0aAlY",
     authDomain: "fir-crud-react-3d90b.firebaseapp.com",
@@ -14,5 +15,5 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 
-const db = getFirestore()
+export const db = getFirestore();
 // const analytics = getAnalytics(app);
