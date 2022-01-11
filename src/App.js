@@ -10,7 +10,7 @@ function App() {
   useEffect(() => {
     const getUsers = async () => {
       const data = await getDocs(usersCollectionRef);
-
+      console.log(data);
     };
 
     getUsers();
