@@ -73,9 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 if there is version earlier than 5.0.0 then uninstall by running the command `npm uninstall -g create-react-app` or `yarn global remove create-react-app` in the terminal in your working folder. 
 Then install by running `npx create-react-app .`
 Then you should be asked a question 
-```Need to install the following packages: 
-    `create-react-app`
-Ok to proceed? (y)```
+`Need to install the following packages: create-react-app Ok to proceed? (y)`
+then you say y to accept. 
 
 or you can use `npm install -g create-react-app` then `create-react-app .` 
 dot "." means your working folder 
