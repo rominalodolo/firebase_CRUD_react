@@ -106,5 +106,5 @@ It should look like then when you say DONE.
 `npm start`
 
 # Final product of the User Input App 
-![User input App](https://user-images.githubusercontent.com/83961643/148946316-a16b7fab-f326-40ea-a51a-2688ee741d20.jpeg)
+![inputuserappscreenshot](https://user-images.githubusercontent.com/83961643/149079085-79f45812-801f-4e23-b59c-1af036843bbf.jpeg)
 
